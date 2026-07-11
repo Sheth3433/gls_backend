@@ -7,7 +7,7 @@ app.use(cors());
 
 app.get('/ping', (req,res) => {
     res.send({
-        message: 'Hello, Aarjav!'
+        message: 'Hello, Aarjav! I am Studing at GLS'
     });
 });
 
